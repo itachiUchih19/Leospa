@@ -1029,8 +1029,8 @@ body {
     /*  Service  */
 
     .appointment__inner > img {
-        width: 640px;
-        height: 541px;
+        width: 670px;
+        height: 585px;
     }
 
     .form {
@@ -1051,7 +1051,10 @@ body {
 
     .form-textarea {
         width: 598px;
+        min-width: 598px;
         max-width: 598px;
+        
+        max-height: 78px;
     }
 }
 
